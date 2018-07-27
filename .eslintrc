@@ -1,0 +1,13 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "rules": {
+    "react/react-in-jsx-scope": "off",
+    "react/forbid-prop-types": "off",
+    "react/require-default-props": "off",
+    "jsx-a11y/anchor-is-valid": "off",
+    "react/destructuring-assignment": "off",
+    "jsx-a11y/html-has-lang": "off",
+    "react/prop-types": "off"
+  }
+}
